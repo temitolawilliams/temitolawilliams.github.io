@@ -385,7 +385,8 @@ div.footer h6 {
 
     
 div.hero-background-pos {
-display: none;}
+display: none;
+}
    
     div.box1 {
         display: flex;
@@ -433,7 +434,7 @@ display: none;}
   .nav-links {
       position: absolute;
       right: 1px;
-      height: 50vh;
+      height: 30vh;
       width: 80%;
       top: 8vh;
       color: #bcc3c7;
